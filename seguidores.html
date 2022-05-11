@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!--=============== Favicon ===============-->
+    <link rel="shortcut icon" href="./images/instapng.png" type="image/png" />
+    <!--=============== Swiper CSS ===============-->
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+    <!--=============== Boxicons ===============-->
+    <link href="https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css" rel="stylesheet" />
+    <!--=============== Custom StyleSheet ===============-->
+    <link rel="stylesheet" href="./css/styles.css" />
+    <title>InstaVendas ⇀ Seguidores</title>
+</head>
+
+<body>
+    <!--=============== Header ===============-->
+    <header class="header header2">
+        <nav class="navbar">
+            <div class="row d-flex container">
+                <a href="" class="logo d-flex">
+                    <img src="./images/logo.png" alt="" />
+                </a>
+
+                <ul class="nav-list d-flex">
+                    <a href="./index.html">Home</a>
+                    <a href="./seguidores.html">Seguidores<div class="underline"></div></a>
+                    <a href="./curtidas.html">Curtidas</a>
+                    <a href="">Views</a>
+                    <span class="close d-flex"><i class="bx bx-x"></i></span>
+                </ul>
+
+                <div class="icons d-flex">
+                    <div class="icon d-flex"><i class="bx bx-search"></i></div>
+                    <div class="icon user-icon d-flex"><i class="bx bx-user"></i></div>
+                    <div class="icon d-flex"><i class="bx bx-shopping-bag"></i><span></span></div>
+                </div>
+
+
+                <!-- Hamburger -->
+                <div class="hamburger d-flex">
+                    <i class="bx bx-menu"></i>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!--=============== Products ===============-->
+    <section class="section products" id="products">
+        <div class="row container">
+            <div class="filters d-flex">
+                <span data-filter="Brasileiros" id="br">Seguidores (Brasileiros)</span>
+                <span data-filter="Mundiais">Seguidores (Mundiais)</span>
+            </div>
+            <div class="products">
+                <div class="swiper mySwiper">
+                    <div class="swiper-wrapper" id="products-wrapper">
+                        <!-- <div class="swiper-slide">
+                          <div class="card">
+                            <div class="image"><img src="url" alt=""></div>
+                            <div class="rating">
+                            <span><i class="bx bxs-star"></i></span>
+                            <span><i class="bx bxs-star"></i></span>
+                            <span><i class="bx bxs-star"></i></span>
+                            <span><i class="bx bxs-star"></i></span>
+                            <span><i class="bx bxs-star"></i></span>
+                            </div>
+                            <h4>Title</h4>
+                            <div class="price">
+                              <span>Price</span><span class="color">Price</span>
+                            </div>
+                            <div class="button">Add To Cart+</div>
+                          </div>
+                        </div> -->
+                    </div>
+                </div>
+                <div class="pagination">
+                    <div class="custom-pagination"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--=============== Footer ===============-->
+    <footer class="footer">
+        <div class="row container">
+            <div class="col">
+                <div class="logo d-flex">
+                    <img src="./images/logo.png" alt="logo" />
+                </div>
+                <p>
+                    Oferecemos os melhores e mais rápidos prazos de entrega, iniciando e acompanhando após a confirmação do pedido.
+                </p>
+                <div class="icons d-flex">
+                    <div class="icon d-flex">
+                        <i class="bx bxl-facebook"></i>
+                    </div>
+                    <div class="icon d-flex"><i class="bx bxl-twitter"></i></div>
+                    <div class="icon d-flex"><i class="bx bxl-linkedin"></i></div>
+                </div>
+            </div>
+            <div class="col">
+                <div>
+                    <h4>Serviços</h4>
+                    <a href="">Seguidores</a>
+                    <a href="">Curtidas</a>
+                    <a href="">Views</a>
+                </div>
+                <div>
+                    <h4>Suporte</h4>
+                    <a href="">FAQ</a>
+                    <a href="">Política de Privacidade</a>
+                    <a href="">Suporte</a>
+                </div>
+                <div>
+                    <h4>Contato</h4>
+                    <a href="">WhatsApp</a>
+                    <a href="">Instagram</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- ====== Login and Signup Form ====== -->
+    <div class="user-form">
+        <div class="close-form d-flex"><i class="bx bx-x"></i></div>
+        <div class="form-wrapper container">
+            <div class="user login">
+                <div class="img-box">
+                    <img src="./images/login.svg" alt="" />
+                </div>
+                <div class="form-box">
+                    <div class="top">
+                        <p>
+                            Não é um membro?
+                            <span data-state="1">Registrar agora</span>
+                        </p>
+                    </div>
+                    <form action="">
+                        <div class="form-control">
+                            <h2>Olá de novo!</h2>
+                            <p>Bem-vindo de volta, você fez falta.</p>
+                            <input type="text" placeholder="Usuário" />
+                            <div>
+                                <input type="password" placeholder="Senha" />
+                                <div class="icon form-icon">
+                                    <!-- <img src="./images/eye.svg" alt="" /> -->
+                                </div>
+                            </div>
+                            <span>Esqueceu a senha?</span>
+                            <input type="Submit" value="Login" />
+                        </div>
+                        <div class="form-control">
+                            <p>Ou continue com</p>
+                            <div class="icons">
+                                <div class="icon">
+                                    <img src="./images/search.svg" alt="" />
+                                </div>
+                                <div class="icon">
+                                    <img src="./images/apple.svg" alt="" />
+                                </div>
+                                <div class="icon">
+                                    <img src="./images/facebook.svg" alt="" />
+                                </div>
+                                <div class="icon">
+                                    <img src="./images/github.svg" alt="" />
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <!-- Register -->
+            <div class="user signup">
+                <div class="form-box">
+                    <div class="top">
+                        <p>
+                            Já é um membro?
+                            <span data-state="2">Fazer Login</span>
+                        </p>
+                    </div>
+                    <form action="">
+                        <div class="form-control">
+                            <h2>Bem vindo!</h2>
+                            <p>É bom ter você aqui.</p>
+                            <input type="email" placeholder="Email" />
+                            <div>
+                                <input type="password" placeholder="Senha" />
+                                <div class="icon form-icon">
+                                    <img src="./images/eye.svg" alt="" />
+                                </div>
+                            </div>
+                            <div>
+                                <input type="password" placeholder="Confirme sua senha" />
+                                <div class="icon form-icon">
+                                    <img src="./images/eye.svg" alt="" />
+                                </div>
+                            </div>
+                            <input type="Submit" value="Continuar" />
+                        </div>
+                        <div class="form-control">
+                            <p>Ou continue com</p>
+                            <div class="icons">
+                                <div class="icon">
+                                    <img src="./images/search.svg" alt="" />
+                                </div>
+                                <div class="icon">
+                                    <img src="./images/apple.svg" alt="" />
+                                </div>
+                                <div class="icon">
+                                    <img src="./images/facebook.svg" alt="" />
+                                </div>
+                                <div class="icon">
+                                    <img src="./images/github.svg" alt="" />
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="img-box">
+                    <img src="./images/signup.svg" alt="" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--=============== Swiper JS ===============-->
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+    <!--=============== Custom JS ===============-->
+    <script>
+        window.onload = function() {
+            document.getElementById("br").click();
+        };
+    </script>
+    <script src="./js/testimonial.js"></script>
+    <script src="./js/products.js"></script>
+    <script src="./js/main.js"></script>
+</body>
+
+</html>

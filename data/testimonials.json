@@ -1,0 +1,32 @@
+{
+    "testimonials": [{
+            "id": 1,
+            "name": "Melissa Hendrick",
+            "firstName": "melissa",
+            "position": "Publicidade e propaganda",
+            "info": "“Esses caras ajudaram muito minha butique de roupas, tenho conseguido muito mais clientes e pedidos porque minha boutique está muito mais fácil de notar agora.”",
+            "class": "active"
+        },
+        {
+            "id": 2,
+            "name": "Lucas Wood",
+            "firstName": "lucas",
+            "position": "Design Gráfico",
+            "info": "“Este site é uma mina de ouro para pessoas que fazem para viver! Além de ser super barato, os serviços oferecidos aqui funcionam muito bem, o que me ajuda a economizar muito tempo e dinheiro. Obrigado!”"
+        },
+        {
+            "id": 3,
+            "name": "Mike Wong",
+            "firstName": "mike",
+            "position": "Analista de Redes Sociais",
+            "info": "“Contratar alguém para gerenciar minhas contas não era algo que eu pudesse pagar quando comecei meu negócio. Mas felizmente eu encontrei este site e pude solicitar ótimos serviços por um preço barato! Agora não preciso me preocupar em encontrar maneiras de ajudar minhas contas a crescer.”"
+        },
+        {
+            "id": 4,
+            "name": "Devesh Mannan",
+            "firstName": "devesh",
+            "position": "Jornalismo",
+            "info": "“Antes de encontrar este site eu costumava solicitar serviços em diferentes agências e era muito caro. É por isso que essa opção não é realmente para iniciantes, ela exige muito dinheiro. Mas este site oferece ótimos serviços de SMM a preços incríveis, por isso é a melhor opção!”"
+        }
+    ]
+}

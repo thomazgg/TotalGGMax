@@ -1,0 +1,163 @@
+{
+    "products": [{
+            "id": 1,
+            "title": "100 Seguidores <br>Brasileiros",
+            "price": "10,00",
+            "url": "./images/follow.png",
+            "link": "https://web.whatsapp.com",
+            "category": "Brasileiros"
+        },
+        {
+            "id": 2,
+            "title": "500 Seguidores <br>Brasileiros",
+            "price": "25,50",
+            "url": "./images/follow.png",
+            "link": "https://web.whatsapp.com",
+            "category": "Brasileiros"
+        },
+        {
+            "id": 3,
+            "title": "1000 Seguidores <br>Brasileiros",
+            "price": "50,00",
+            "url": "./images/follow.png",
+            "link": "https://web.whatsapp.com",
+            "category": "Brasileiros"
+        },
+        {
+            "id": 4,
+            "title": "2000 Seguidores <br>Brasileiros",
+            "price": "85,00",
+            "url": "./images/follow.png",
+            "link": "https://web.whatsapp.com",
+            "category": "Brasileiros"
+        },
+        {
+            "id": 5,
+            "title": "3000 Seguidores <br>Brasileiros",
+            "price": "100,00",
+            "url": "./images/follow.png",
+            "link": "https://web.whatsapp.com",
+            "category": "Brasileiros"
+        },
+        {
+            "id": 6,
+            "title": "4000 Seguidores <br>Brasileiros",
+            "price": "170,00",
+            "url": "./images/follow.png",
+            "link": "https://web.whatsapp.com",
+            "category": "Brasileiros"
+        },
+        {
+            "id": 7,
+            "title": "5000 Seguidores <br>Brasileiros",
+            "price": "190,00",
+            "url": "./images/follow.png",
+            "link": "https://web.whatsapp.com",
+            "category": "Brasileiros"
+        },
+        {
+            "id": 8,
+            "title": "10000 Seguidores <br>Brasileiros",
+            "price": "210,00",
+            "url": "./images/follow.png",
+            "link": "https://web.whatsapp.com",
+            "category": "Brasileiros"
+        },
+        {
+            "id": 9,
+            "title": "100 Seguidores <br>Mundiais",
+            "price": "4,50",
+            "url": "./images/follow.png",
+            "link": "https://web.whatsapp.com",
+            "category": "Mundiais"
+        },
+        {
+            "id": 10,
+            "title": "500 Seguidores <br>Mundiais",
+            "price": "14,00",
+            "url": "./images/follow.png",
+            "link": "https://web.whatsapp.com",
+            "category": "Mundiais"
+        },
+        {
+            "id": 11,
+            "title": "1000 Seguidores <br>Mundiais",
+            "price": "24.00",
+            "url": "./images/follow.png",
+            "link": "https://web.whatsapp.com",
+            "category": "Mundiais"
+        },
+        {
+            "id": 12,
+            "title": "2000 Seguidores <br>Mundiais",
+            "price": "34,00",
+            "url": "./images/follow.png",
+            "link": "https://web.whatsapp.com",
+            "category": "Mundiais"
+        },
+        {
+            "id": 13,
+            "title": "3000 Seguidores <br>Mundiais",
+            "price": "44,00",
+            "url": "./images/follow.png",
+            "link": "https://web.whatsapp.com",
+            "category": "Mundiais"
+        },
+        {
+            "id": 14,
+            "title": "4000 Seguidores <br>Mundiais",
+            "price": "54,00",
+            "url": "./images/follow.png",
+            "link": "https://web.whatsapp.com",
+            "category": "Mundiais"
+        },
+        {
+            "id": 15,
+            "title": "5000 Seguidores <br>Mundiais",
+            "price": "64,00",
+            "url": "./images/follow.png",
+            "link": "https://web.whatsapp.com",
+            "category": "Mundiais"
+        },
+        {
+            "id": 16,
+            "title": "10000 Seguidores <br>Mundiais",
+            "price": "110,00",
+            "url": "./images/follow.png",
+            "link": "https://web.whatsapp.com",
+            "category": "Mundiais"
+        },
+        {
+            "id": 17,
+            "title": "100 Curtidas no <br>Instagram",
+            "price": "10,00",
+            "url": "./images/like.png",
+            "link": "https://web.whatsapp.com",
+            "category": "Curtidas"
+        },
+        {
+            "id": 18,
+            "title": "500 Curtidas no <br>Instagram",
+            "price": "25,00",
+            "url": "./images/like.png",
+            "link": "https://web.whatsapp.com",
+            "category": "Curtidas"
+        },
+        {
+            "id": 19,
+            "title": "1000 Curtidas no <br>Instagram",
+            "price": "40,00",
+            "url": "./images/like.png",
+            "link": "https://web.whatsapp.com",
+            "category": "Curtidas"
+        },
+        {
+            "id": 20,
+            "title": "100 Views no <br>Instagram",
+            "price": "10,00",
+            "url": "./images/follow.png",
+            "link": "https://web.whatsapp.com",
+            "category": "Views"
+        }
+    ]
+}
